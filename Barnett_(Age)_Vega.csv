@@ -1,15 +1,15 @@
 Question,Age,Percentage
-1.  Increases  the  risk  for  subsequent  psychiatric  disorders,>40 Years,68.5
 1.  Increases  the  risk  for  subsequent  psychiatric  disorders,≤40 Years,59.7
-2.  Increases  the  risk  for  long-term  cognitive  impairment,>40 Years,45.5
+1.  Increases  the  risk  for  subsequent  psychiatric  disorders,>40 Years,68.5
 2.  Increases  the  risk  for  long-term  cognitive  impairment,≤40 Years,50.4
-3.  Should  be  illegal  for  recreational  purposes,>40 Years,56.7
+2.  Increases  the  risk  for  long-term  cognitive  impairment,>40 Years,45.5
 3.  Should  be  illegal  for  recreational  purposes,≤40 Years,51.1
-4.  Is  unsafe  even  under  medical  supervision,>40 Years,27.0
+3.  Should  be  illegal  for  recreational  purposes,>40 Years,56.7
 4.  Is  unsafe  even  under  medical  supervision,≤40 Years,20.1
-5.  Shows  promise  in  treating  psychiatric  disorders,>40 Years,39.3
+4.  Is  unsafe  even  under  medical  supervision,>40 Years,27.0
 5.  Shows  promise  in  treating  psychiatric  disorders,≤40 Years,55.4
-6.  May  improve  outcomes  when  used  during  psychotherapy,>40 Years,28.8
+5.  Shows  promise  in  treating  psychiatric  disorders,>40 Years,39.3
 6.  May  improve  outcomes  when  used  during  psychotherapy,≤40 Years,29.5
-7.  Deserves  further  research  for  treatment  of  psychiatric  disorders,>40 Years,75.4
+6.  May  improve  outcomes  when  used  during  psychotherapy,>40 Years,28.8
 7.  Deserves  further  research  for  treatment  of  psychiatric  disorders,≤40 Years,89.2
+7.  Deserves  further  research  for  treatment  of  psychiatric  disorders,>40 Years,75.4
