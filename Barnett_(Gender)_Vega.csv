@@ -1,15 +1,15 @@
 Question,Gender,Percentage
-Increases the risk for subsequent psychiatric disorders,Male,62.3
-Increases the risk for subsequent psychiatric disorders,Female,68.2
-Increases the risk for long-term cognitive impairment,Male,41.9
-Increases the risk for long-term cognitive impairment,Female,55
-Should be illegal for recreational purposes,Male,48.8
-Should be illegal for recreational purposes,Female,60.7
-Is unsafe even under medical supervision,Male,21.6
-Is unsafe even under medical supervision,Female,28.5
-Shows promise in treating psychiatric disorders,Male,48.2
-Shows promise in treating psychiatric disorders,Female,37.3
-May improve outcomes when used during psychotherapy,Male,35.9
-May improve outcomes when used during psychotherapy,Female,21.3
-Deserves further research for treatment of psychiatric disorders,Male,85.7
-Deserves further research for treatment of psychiatric disorders,Female,74.8
+1. Increases the risk for subsequent psychiatric disorders,Male,62.3
+1. Increases the risk for subsequent psychiatric disorders,Female,68.2
+2. Increases the risk for long-term cognitive impairment,Male,41.9
+2. Increases the risk for long-term cognitive impairment,Female,55
+3. Should be illegal for recreational purposes,Male,48.8
+3. Should be illegal for recreational purposes,Female,60.7
+4. Is unsafe even under medical supervision,Male,21.6
+4. Is unsafe even under medical supervision,Female,28.5
+5. Shows promise in treating psychiatric disorders,Male,48.2
+5. Shows promise in treating psychiatric disorders,Female,37.3
+6. May improve outcomes when used during psychotherapy,Male,35.9
+6. May improve outcomes when used during psychotherapy,Female,21.3
+7. Deserves further research for treatment of psychiatric disorders,Male,85.7
+7. Deserves further research for treatment of psychiatric disorders,Female,74.8
